@@ -1,0 +1,26 @@
+[
+  {
+    "title": "AirBnb clone",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building a clone website.",
+    "skills": ["HTML","CSS","React"],
+    "demo": "https://my-air-bnb-clone-website.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building a responsive website.",
+    "skills": ["HTML","CSS","JavaScript", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Calculator",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building a calculator app using react Js.",
+    "skills": ["HTML","CSS","React"],
+    "demo": "https://react-my-calculator-app.netlify.app/",
+    "source": "https://www.github.com"
+  }
+]
