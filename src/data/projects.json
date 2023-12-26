@@ -2,7 +2,7 @@
   {
     "title": "To Do",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building website.",
+    "description": "This is a project made to learn the latest languages by building a To Do website.",
     "skills": ["HTML","CSS","JS","ReactJs"],
     "demo": "https://my-to-do-website.netlify.app/",
     "source": "https://github.com/harish-chowdari/ToDo-website"
