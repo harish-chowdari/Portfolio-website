@@ -1,26 +1,26 @@
 [
   {
-    "title": "AirBnb clone",
+    "title": "To Do",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building a clone website.",
-    "skills": ["HTML","CSS","React"],
-    "demo": "https://my-air-bnb-clone-website.netlify.app/",
-    "source": "https://www.github.com"
+    "description": "This is a project made to learn the latest languages by building website.",
+    "skills": ["HTML","CSS","JS","ReactJs"],
+    "demo": "https://my-to-do-website.netlify.app/",
+    "source": "https://github.com/harish-chowdari/ToDo-website"
   },
   {
     "title": "Portfolio",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building a responsive website.",
-    "skills": ["HTML","CSS","JavaScript", "React"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["HTML","CSS","JS", "ReactJs"],
+    "demo": "https://my-portfolio-withreact.netlify.app/",
+    "source": "https://github.com/harish-chowdari/Portfolio-website"
   },
   {
     "title": "Calculator",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building a calculator app using react Js.",
-    "skills": ["HTML","CSS","React"],
+    "skills": ["HTML","CSS","JS","ReactJs"],
     "demo": "https://react-my-calculator-app.netlify.app/",
-    "source": "https://www.github.com"
+    "source": "https://github.com/harish-chowdari/Calculator"
   }
 ]
